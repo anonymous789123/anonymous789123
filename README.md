@@ -11,9 +11,6 @@
 - :seedling: I’m currently learning **Angular**
 
 - :speech_balloon: Ask me about **Javascript**
-
-- :mailbox: How to reach me **sandrogunjua7777@yahoo.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
